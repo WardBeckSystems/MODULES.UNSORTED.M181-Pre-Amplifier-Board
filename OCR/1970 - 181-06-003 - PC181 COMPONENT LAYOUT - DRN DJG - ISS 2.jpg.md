@@ -33,7 +33,7 @@ Wiki page: [M181](../../../../PAGES/M181.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 12 in 11 lines: 8128 · Jebe · EEB · EBE · Eeled: 5v2c · E4 · Sw ZA| · Swzc · 83 · Swza · e3
 
-Every curve, box, word and wire group: [1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20181-06-003%20-%20PC181%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%202%20(traced).json) (the CAD file: `1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20181-06-003%20-%20PC181%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -30,7 +30,7 @@ Wiki page: [M181](../../../../PAGES/M181.md)
 - **Closed boxes:** 24
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG (traced).json](../SCHEMATICS/1970%20-%20181-06-003%20-%20PC181%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20(traced).json) (the CAD file: `1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG (traced).json](../SCHEMATICS/1970%20-%20181-06-003%20-%20PC181%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20%28traced%29.json) (the CAD file: `1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG (traced).dxf`).
 
 ## Full text
 

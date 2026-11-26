@@ -40,7 +40,7 @@ Wiki page: [M181](../../../../PAGES/M181.md)
 - **Title block:** (298, 7)–(412, 32) mm: OSS MOD _ CKD: · USED OH · WBS WARD-BeCk ByBTeMB LTD · DRN: GP · DATE APR 73 · PRE AMPLIFIER · M441 SERIEs · FINISH · CKD_ Ttt · SCHEMATIC · SCALE · TOLS · 181-02- 001
 - **Wiring (first pass):** 110 connected wire groups from 604 runs; labelled ends: 295 mm → 439, 709-, RA, ISk; 165 mm → R5, ISk, Ra, CRZ; 131 mm → To PC 182, (BOOSTER AMP), FOLDBACK, LEVEL CtL; 124 mm → To PC 182, (BOOSTER AMP), FOLDBACK, LEVEL CtL; 88 mm → 709, 385, 03, 833
 
-Every curve, box, word and wire group: [1973 - 181-02-001 - M441 SERIES PRE AMPLIFIER SCHEMATIC - DRN GP - ISS 1 (traced).json](../SCHEMATICS/1973%20-%20181-02-001%20-%20M441%20SERIES%20PRE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%201%20(traced).json) (the CAD file: `1973 - 181-02-001 - M441 SERIES PRE AMPLIFIER SCHEMATIC - DRN GP - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 181-02-001 - M441 SERIES PRE AMPLIFIER SCHEMATIC - DRN GP - ISS 1 (traced).json](../SCHEMATICS/1973%20-%20181-02-001%20-%20M441%20SERIES%20PRE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1973 - 181-02-001 - M441 SERIES PRE AMPLIFIER SCHEMATIC - DRN GP - ISS 1 (traced).dxf`).
 
 ## Full text
 

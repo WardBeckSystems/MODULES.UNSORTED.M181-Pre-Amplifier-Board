@@ -32,7 +32,7 @@ Faint rotated schematic copy with the WBS title block running down the right sid
 - **Words (OCR):** 4 in 4 lines: 8 3 · 319 · 32 · 33
 - **Wiring (first pass):** 84 connected wire groups from 847 runs; labelled ends: 122 mm → 8 3, 32; 76 mm → 8 3, 32; 66 mm → 319; 48 mm → 8 3; 45 mm → 8 3
 
-Every curve, box, word and wire group: [19xx - 181-02-001 - (cut off at left) ...ERIES ...LIFIER ...TIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20181-02-001%20-%20(cut%20off%20at%20left)%20...ERIES%20...LIFIER%20...TIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 181-02-001 - (cut off at left) ...ERIES ...LIFIER ...TIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 181-02-001 - (cut off at left) ...ERIES ...LIFIER ...TIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20181-02-001%20-%20%28cut%20off%20at%20left%29%20...ERIES%20...LIFIER%20...TIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 181-02-001 - (cut off at left) ...ERIES ...LIFIER ...TIC - ISS 1 (traced).dxf`).
 
 ## Full text
 
