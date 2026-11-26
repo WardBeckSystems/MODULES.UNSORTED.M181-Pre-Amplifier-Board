@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/UNSORTED/M181/SCHEMATICS/1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG.jpg",
+ "version": 1,
+ "trace": "_traces/997898cf38c99525.svg",
+ "sheet": {
+  "number": "B 181-06-003",
+  "title": "PC181 / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.6, -0.1, 431.9, 278.3],
+ "outlines": {
+  "line": {"rings": 2617, "straight": {"n": 21421, "mm": 24876.5}, "curved": {"n": 5511, "mm": 5459.7}},
+  "text": {"rings": 242, "straight": {"n": 2050, "mm": 1875.7}, "curved": {"n": 590, "mm": 646.3}}
+ },
+ "circles": [
+  {"c": [178.5, 207.9], "r": 8.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [115.4, 229.4], "r": 8.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [178.4, 228.9], "r": 8.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [126.0, 112.1], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [376.9, 183.9], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [101.4, 261.9], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [122.0, 259.3], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [176.9, 208.4], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [233.1, 30.9], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [264.4, 198.9], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [279.7, 143.4], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4}
+ ],
+ "boxes": [
+  {"mm": [235.5, 246.8, 239.9, 262.8], "w": 4.4, "h": 16.0, "from": "ring"},
+  {"mm": [142.7, 250.4, 153.1, 253.9], "w": 10.4, "h": 3.5, "from": "ring"},
+  {"mm": [146.2, 235.1, 149.0, 238.2], "w": 2.8, "h": 3.1, "from": "ring"},
+  {"mm": [206.0, 211.2, 216.1, 214.4], "w": 10.1, "h": 3.2, "from": "ring"},
+  {"mm": [206.0, 206.2, 216.1, 209.2], "w": 10.1, "h": 3.0, "from": "ring"},
+  {"mm": [206.0, 201.0, 215.9, 204.2], "w": 9.9, "h": 3.2, "from": "ring"},
+  {"mm": [212.9, 169.5, 215.0, 184.6], "w": 2.2, "h": 15.1, "from": "ring"},
+  {"mm": [271.6, 130.6, 282.6, 134.9], "w": 11.0, "h": 4.3, "from": "ring"},
+  {"mm": [354.7, 125.0, 364.7, 129.8], "w": 10.0, "h": 4.7, "from": "ring"},
+  {"mm": [228.2, 116.4, 230.4, 118.7], "w": 2.2, "h": 2.4, "from": "ring"},
+  {"mm": [152.0, 91.5, 155.9, 94.6], "w": 3.9, "h": 3.0, "from": "ring"},
+  {"mm": [152.0, 88.1, 156.1, 91.3], "w": 4.1, "h": 3.2, "from": "ring"},
+  {"mm": [160.8, 81.0, 165.0, 87.9], "w": 4.2, "h": 7.0, "from": "ring"},
+  {"mm": [173.6, 80.9, 181.2, 87.9], "w": 7.6, "h": 7.0, "from": "ring"},
+  {"mm": [261.0, 26.3, 338.6, 44.7], "w": 77.6, "h": 18.4, "from": "ring"},
+  {"mm": [223.0, 35.6, 260.4, 44.5], "w": 37.4, "h": 9.0, "from": "ring"},
+  {"mm": [208.8, 35.6, 221.8, 44.3], "w": 13.0, "h": 8.7, "from": "ring"},
+  {"mm": [208.8, 26.3, 221.7, 35.2], "w": 13.0, "h": 8.9, "from": "ring"},
+  {"mm": [222.8, 26.3, 260.4, 35.2], "w": 37.6, "h": 8.9, "from": "ring"},
+  {"mm": [260.8, 7.7, 338.5, 26.3], "w": 77.7, "h": 18.6, "from": "ring"},
+  {"mm": [222.8, 16.8, 260.4, 26.1], "w": 37.6, "h": 9.3, "from": "ring"},
+  {"mm": [208.8, 16.8, 221.8, 25.9], "w": 13.0, "h": 9.1, "from": "ring"},
+  {"mm": [208.8, 7.5, 221.7, 16.4], "w": 13.0, "h": 8.9, "from": "ring"},
+  {"mm": [222.8, 7.5, 260.4, 16.4], "w": 37.6, "h": 8.9, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [4.2, 171.4], "r": 0.7, "lines": 0}, {"c": [255.6, 100.8], "r": 0.6, "lines": 0}, {"c": [405.1, 22.0], "r": 1.3, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 181-06-003, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 4–432 mm across, 0–278 mm up",
+  "- **Outlines:** line 2,617 rings, 21,421 straight (24,876 mm) / 5,511 curved (5,460 mm); text 242 rings, 2,050 straight (1,876 mm) / 590 curved (646 mm)",
+  "- **Circles and arcs:** 11 circles, 0 arcs; largest r 8.4 @ (178.5, 207.9), r 8.4 @ (115.4, 229.4), r 8.4 @ (178.4, 228.9), r 3.2 @ (126.0, 112.1)",
+  "- **Closed boxes:** 24",
+  "- **Dots (junctions):** 3"
+ ]
+}

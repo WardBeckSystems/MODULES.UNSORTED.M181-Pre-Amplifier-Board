@@ -1,0 +1,84 @@
+{
+ "drawing": "Modules/UNSORTED/M181/SCHEMATICS/1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/da0e9316fd4d5f5e.svg",
+ "sheet": {
+  "number": "B 181-06-003",
+  "title": "PC181 / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1414, 2000],
+  "mm": [305.3, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 286.3, 429.9],
+ "outlines": {
+  "line": {"rings": 3267, "straight": {"n": 25470, "mm": 25392.7}, "curved": {"n": 7016, "mm": 6668.1}},
+  "text": {"rings": 352, "straight": {"n": 2930, "mm": 2496.8}, "curved": {"n": 881, "mm": 927.5}}
+ },
+ "circles": [
+  {"c": [165.6, 300.5], "r": 9.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [213.5, 270.1], "r": 8.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [234.6, 270.3], "r": 8.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [232.4, 301.1], "r": 8.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [117.7, 322.7], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [118.3, 93.5], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [182.9, 215.6], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [204.5, 184.0], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [256.1, 295.6, 259.5, 305.9], "w": 3.5, "h": 10.4, "from": "ring"},
+  {"mm": [201.0, 303.6, 204.2, 305.7], "w": 3.2, "h": 2.2, "from": "ring"},
+  {"mm": [240.7, 299.7, 243.8, 302.5], "w": 3.0, "h": 2.8, "from": "ring"},
+  {"mm": [97.2, 292.5, 100.2, 296.6], "w": 3.0, "h": 4.1, "from": "ring"},
+  {"mm": [22.0, 263.6, 31.5, 273.6], "w": 9.5, "h": 10.0, "from": "ring"},
+  {"mm": [31.5, 263.6, 50.4, 273.5], "w": 18.8, "h": 10.0, "from": "ring"},
+  {"mm": [206.0, 231.9, 210.1, 242.7], "w": 4.1, "h": 10.8, "from": "ring"},
+  {"mm": [22.2, 226.7, 31.6, 239.5], "w": 9.4, "h": 12.8, "from": "ring"},
+  {"mm": [3.8, 226.6, 12.7, 239.4], "w": 8.9, "h": 12.8, "from": "ring"},
+  {"mm": [13.2, 226.7, 21.8, 239.4], "w": 8.6, "h": 12.7, "from": "ring"},
+  {"mm": [31.9, 226.6, 40.6, 239.4], "w": 8.7, "h": 12.8, "from": "ring"},
+  {"mm": [41.0, 226.6, 49.9, 239.4], "w": 8.9, "h": 12.8, "from": "ring"},
+  {"mm": [13.1, 188.0, 21.8, 225.6], "w": 8.7, "h": 37.6, "from": "ring"},
+  {"mm": [22.2, 188.0, 31.7, 225.4], "w": 9.5, "h": 37.4, "from": "ring", "words": ["Eeled:"]},
+  {"mm": [31.9, 188.0, 40.9, 225.4], "w": 9.0, "h": 37.4, "from": "ring"},
+  {"mm": [41.0, 188.0, 50.1, 225.4], "w": 9.1, "h": 37.4, "from": "ring"},
+  {"mm": [32.0, 109.6, 50.3, 187.5], "w": 18.4, "h": 77.9, "from": "ring"},
+  {"mm": [13.3, 109.5, 31.8, 187.5], "w": 18.5, "h": 78.0, "from": "ring"},
+  {"mm": [136.2, 165.8, 140.6, 176.8], "w": 4.3, "h": 11.1, "from": "ring"},
+  {"mm": [13.5, 4.0, 40.7, 108.4], "w": 27.1, "h": 104.4, "from": "ring"},
+  {"mm": [4.3, 95.6, 13.0, 108.2], "w": 8.7, "h": 12.6, "from": "ring"},
+  {"mm": [157.8, 91.3, 160.8, 93.7], "w": 3.1, "h": 2.4, "from": "ring"},
+  {"mm": [130.4, 83.6, 135.4, 93.3], "w": 5.0, "h": 9.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [51.0, 378.0, 84.4, 402.7], "text": "8128"},
+   {"mm": [182.2, 324.7, 205.5, 340.8], "text": "Jebe"},
+   {"mm": [204.7, 293.2, 221.9, 307.1], "text": "EEB"},
+   {"mm": [243.5, 261.7, 261.5, 276.3], "text": "EBE"},
+   {"mm": [2.2, 205.5, 81.2, 226.2], "text": "Eeled: 5v2c"},
+   {"mm": [3.5, 197.8, 13.8, 209.8], "text": "E4"},
+   {"mm": [65.0, 198.8, 79.0, 203.2], "text": "Sw ZA|"},
+   {"mm": [63.7, 191.1, 77.7, 198.0], "text": "Swzc"},
+   {"mm": [4.3, 179.6, 13.0, 195.9], "text": "83"},
+   {"mm": [64.8, 180.3, 80.7, 185.3], "text": "Swza"},
+   {"mm": [3.5, 169.3, 13.2, 183.2], "text": "e3"}
+  ]
+ },
+ "dots": [{"c": [203.2, 302.3], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 181-06-003, size B 305 × 432 mm, 1414 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–286 mm across, 0–430 mm up",
+  "- **Outlines:** line 3,267 rings, 25,470 straight (25,393 mm) / 7,016 curved (6,668 mm); text 352 rings, 2,930 straight (2,497 mm) / 881 curved (928 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 9.0 @ (165.6, 300.5), r 8.5 @ (213.5, 270.1), r 8.4 @ (234.6, 270.3), r 8.3 @ (232.4, 301.1)",
+  "- **Closed boxes:** 23; named: Eeled:",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 12 in 11 lines: 8128 · Jebe · EEB · EBE · Eeled: 5v2c · E4 · Sw ZA| · Swzc · 83 · Swza · e3"
+ ]
+}
