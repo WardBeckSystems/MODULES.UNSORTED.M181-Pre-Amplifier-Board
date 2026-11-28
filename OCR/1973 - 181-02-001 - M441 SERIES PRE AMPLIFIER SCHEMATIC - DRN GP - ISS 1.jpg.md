@@ -1,5 +1,5 @@
 # 1973 - 181-02-001 - M441 SERIES PRE AMPLIFIER SCHEMATIC - DRN GP - ISS 1.jpg
-Wiki page: [M181](../../../../PAGES/M181.md)
+Wiki page: [M181](../)
 
 
 - **Year:** 1973 (title block date)

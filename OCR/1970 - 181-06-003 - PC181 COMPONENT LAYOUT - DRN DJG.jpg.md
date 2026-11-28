@@ -1,5 +1,5 @@
 # 1970 - 181-06-003 - PC181 COMPONENT LAYOUT - DRN DJG.jpg
-Wiki page: [M181](../../../../PAGES/M181.md)
+Wiki page: [M181](../)
 
 
 - **Year:** 1970 (title block date)

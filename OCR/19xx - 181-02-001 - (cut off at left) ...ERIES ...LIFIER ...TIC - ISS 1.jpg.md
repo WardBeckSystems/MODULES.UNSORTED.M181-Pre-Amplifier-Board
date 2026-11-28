@@ -1,5 +1,5 @@
 # 19xx - 181-02-001 - (cut off at left) ...ERIES ...LIFIER ...TIC - ISS 1.jpg
-Wiki page: [M181](../../../../PAGES/M181.md)
+Wiki page: [M181](../)
 
 
 - **Year:** unknown (title block (read by eye))

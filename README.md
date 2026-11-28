@@ -1,6 +1,6 @@
 # M181 Pre-Amplifier Board · Input Pre Amps
 
-Ward-Beck Systems M181, 1970|3. Wiki page: [M181 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M181.html)
+Ward-Beck Systems M181, 1970|3. Wiki page: [M181 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M181-Pre-Amplifier-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|
